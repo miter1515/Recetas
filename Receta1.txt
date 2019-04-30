@@ -1,13 +1,13 @@
 Helado de aguacate
 
 Ingredientes:
--	2 aguacates
--	2 cucharadas de zumo de limón
--	Ralladura de 1 limón
--	1 cucharadita de esencia de vainilla
--	5 cucharadas de azúcar
--	1 yogurt
--	½ taza de leche
+-	2 aguacates					$4000
+-	2 cucharadas de zumo de limón			 $200
+-	Ralladura de 1 limón				  ---
+-	1 cucharadita de esencia de vainilla		$5000
+-	5 cucharadas de azúcar				$1200
+-	1 yogurt					$800
+-	½ taza de leche					$1500
 
 Preparación:
 1.	Cortar los aguacates por la mitad y quitarles el hueso.
